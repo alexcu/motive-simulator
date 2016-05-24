@@ -28,4 +28,4 @@ Tuesday, January 28, 1997 / 9:25 AM
 
 ## Demo
 
-![Demo](/demo.gif&raw=true)
+![Demo](https://raw.githubusercontent.com/alexcu/motives-simulator/master/demo.gif)
