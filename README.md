@@ -1,6 +1,6 @@
 # Motive Simulator
 
-This code is adapted from Don Hopkins' article [The Soul of The Sims](http://www.donhopkins.com/home/images/Sims/) which shows an prototype of the 'soul' of what became The Sims 1, written January 23, 1997. It is based off the images provided in the article (see the attach PDF) sticking to the main adaptation of Wright's simulation models, only modified to make it visualised with a few minor adaptations to make it run.
+This code is adapted from Don Hopkins' article [The Soul of The Sims](http://www.donhopkins.com/home/images/Sims/) which shows an prototype of the 'soul' of what became The Sims 1, written January 23, 1997. It is based off the images provided in the article (see the [attached PDF](https://raw.githubusercontent.com/alexcu/motives-simulator/master/original.pdf)) sticking to the main adaptation of Wright's simulation models, only modified to make it visualised with a few minor adaptations to make it run.
 
 Thought it would be fun to implement it, run the simulation, and what do you know it does kind of look like a basic foundation to The Sims 1's needs system!
 
